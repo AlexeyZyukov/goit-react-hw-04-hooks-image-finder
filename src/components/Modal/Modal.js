@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { useEffect, Component } from 'react';
 import PropTypes, { string } from 'prop-types';
 import styles from './modal.module.css';
 

@@ -13,7 +13,7 @@ export default class Spinner extends Component {
           width={100}
           timeout={3000} //3 secs
         />
-        <p>Loading...</p>
+        {/* <p>Loading...</p> */}
       </div>
     );
   }
